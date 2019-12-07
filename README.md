@@ -4,6 +4,6 @@
 
 
 
-Pranjal Ranjan
-161090046
+Pranjal Ranjan \
+161090046 \
 VJTI, Mumbai
